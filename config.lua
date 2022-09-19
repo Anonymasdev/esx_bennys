@@ -14,14 +14,14 @@ Config.Zones = {
 		Hint  = _U('press_custom')
 	},
 
---	ls2 = {
---		Pos   = { x = 897.8571, y = -2127.1687, z = 29.7121}, --897.8571, -2127.1687, 29.7121, 354.6868
---		Size  = {x = 3.0, y = 3.0, z = 0.2},
---		Color = {r = 204, g = 204, b = 0},
---		Marker= 1,
---		Name  = _U('blip_name'),
---		Hint  = _U('press_custom')
---	}
+	ls2 = {
+		Pos   = { x = -106.9174, y = 820.6050, z = 234.9919},
+		Size  = {x = 3.0, y = 3.0, z = 0.2},
+		Color = {r = 204, g = 204, b = 0},
+		Marker= 1,
+		Name  = _U('blip_name'),
+		Hint  = _U('press_custom')
+	}
 
 }
 

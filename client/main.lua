@@ -388,7 +388,7 @@ end
 -- Blips
 Citizen.CreateThread(function()
 	for k,v in pairs(Config.Zones) do
-		local blip = AddBlipForCoord(v.Pos.x, v.Pos.y, v.Pos.z)
+		--local blip = AddBlipForCoord(v.Pos.x, v.Pos.y, v.Pos.z)
 
 		SetBlipSprite(blip, 446)
 		SetBlipColour (blip, 5)

@@ -24,11 +24,3 @@ client_scripts {
 	'config.lua',
 	'client/main.lua'
 }
-
-escrow_ignore {
-	"config.lua",
-	'locales/en.lua',
-	'locales/fr.lua',
-	'server/main.lua'
-	'client/main.lua'
-}
